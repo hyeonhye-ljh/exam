@@ -5,3 +5,5 @@ dev commit 2
 dev f1
 dev f2
 dev f3
+master change
+
