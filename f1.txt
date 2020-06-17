@@ -5,3 +5,6 @@ branck
 developer 1 master change
 master add 1
 master add 2
+developer add 1
+developer add 2
+developer add 3
