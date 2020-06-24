@@ -7,3 +7,4 @@ dev f2
 dev f3
 master change
 
+revert vs reset
